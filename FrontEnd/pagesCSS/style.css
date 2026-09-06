@@ -5,9 +5,9 @@
 
 /* Fijar los márgenes de la barra de navegación en 0 */
 
-/* body {
+body {
     margin: 0;
-} */
+}
 
 nav {
     background-color: black;
